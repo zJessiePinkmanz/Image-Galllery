@@ -1,0 +1,48 @@
+div#MainMenu {
+  padding-left: 33%;
+  padding-right: 33%;
+  text-align: center;
+}
+
+
+.banner {
+  max-width: 100%;
+  max-height: 750px;
+  border-radius: 10%;
+  padding-top: 10px;
+}
+
+#MainMenu a {
+  font-size: 50px;
+  font-style: normal;
+  Color : white;
+  text-decoration: none;
+  margin: 10px;
+  }
+
+#MainMenu a:hover{
+  color: #888844;
+  font-style:oblique;
+}
+.wrap {
+  max-width: 1300px;
+  margin: auto;
+}
+.hero {
+  border-radius: 10%;
+  padding: 10px;
+
+}
+#picture {
+  text-align: center;
+}
+
+img.hero:hover {
+  border-style: groove;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+  color:#33331a;
+}
